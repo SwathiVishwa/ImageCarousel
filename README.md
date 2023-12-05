@@ -1,2 +1,2 @@
 # ImageCarousel
-A sample Implementation of WHY NOT IMAGE CAROUSEL
+A sample Implementation of WHY NOT IMAGE CAROUSEL Library
